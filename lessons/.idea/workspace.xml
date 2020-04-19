@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbbfe580-e34a-4970-85b2-ebc3b9f5b364" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DB/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpiderDB/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/.idea/awesomeProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/awesomeProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject10/.idea/awesomeProject10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject11/.idea/awesomeProject11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject12/.idea/awesomeProject12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject12/mian.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject13/.idea/awesomeProject13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject2/.idea/awesomeProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject3/.idea/awesomeProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject4/.idea/awesomeProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject5/.idea/awesomeProject5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject6/.idea/awesomeProject6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject7/.idea/awesomeProject7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject8/.idea/awesomeProject8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject9/.idea/awesomeProject9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/app/cron.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/app/iris.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/app/starting.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/codegen/codegen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/avatar/avatar.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/baiduai/baiduai.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/baiduai/baiduai_models.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/baiduai/baiduai_token.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/baiduseo/baiduseo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/code_errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/email/email.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/github/github_collect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/github/github_oauth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/oss/oss.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/qq/qq_oauth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/sitemap/consts.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/sitemap/options.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/sitemap/sitemap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/sitemap/url.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/urls/urls.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/common/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/article_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/article_tag_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/comment_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/common_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/favorite_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/link_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/message_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/project_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/sitemap_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/sys_config_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/tag_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/third_account_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/topic_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/topic_like_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/topic_node_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/topic_tag_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/user_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/user_score_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/user_score_log_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/admin/user_token_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/article_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/captcha_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/comment_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/config_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/favorite_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/link_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/login_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/project_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/spider_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/tag_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/topic_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/upload_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/api/user_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/controllers/render/render.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/middleware/api_auth_middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/model/constants.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/model/data.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/model/form.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/model/models.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/model/response.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/article_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/article_tag_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/comment_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/favorite_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/link_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/message_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/project_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/sitemap_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/sys_config_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/tag_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/third_account_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/topic_like_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/topic_node_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/topic_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/topic_tag_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/user_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/user_score_log_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/user_score_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/repositories/user_token_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/article_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/article_tag_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/cache/article_cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/cache/article_tag_cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/cache/sys_config_cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/cache/tag_cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/cache/topic_cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/cache/user_cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/cache/user_token_cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/cache/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/collect/spider_api.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/collect/wxbot_api.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/comment_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/favorite_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/link_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/message_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/project_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/sitemap_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/sys_config_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/tag_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/third_account_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/topic_like_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/topic_node_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/topic_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/topic_tag_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/user_score_log_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/user_score_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/user_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/services/user_token_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs-go-master/server/test/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatroom/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatroom/.idea/chatroom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatroom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatroom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatroom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatroom/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framedemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framedemo/.idea/framedemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framedemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framedemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framedemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framedemo/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framedemo/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gindemo/.idea/gindemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gindemo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/internal/commandinfo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/internal/commandinfo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/internal/redistest/testdb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/conn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/conn_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/go16.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/go17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/go18.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/list_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/pool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/pool17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/pool17_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/pool_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/pubsub.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/pubsub_example_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/pubsub_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/redis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/redis_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/reply.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/reply_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/scan_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/script.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/script_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/test_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redis/zpop_example_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redisx/connmux.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redisx/connmux_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo/redisx/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/go-redis/redis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/association.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/association_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback_create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback_delete.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback_query.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback_query_preload.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback_row_query.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback_save.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback_system_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callback_update.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/callbacks_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/create_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/customize_column_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/delete_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialect_common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialect_mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialect_postgres.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialect_sqlite3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialects/mssql/mssql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialects/mysql/mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialects/postgres/postgres.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/dialects/sqlite/sqlite.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/embedded_struct_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/errors_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/field.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/field_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/join_table_handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/join_table_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/migration_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/model_struct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/model_struct_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/multi_primary_keys_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/naming.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/naming_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/pointer_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/polymorphic_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/preload_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/query_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/scaner_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/scope.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/scope_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/search.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/search_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/update_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jinzhu/gorm/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/bind.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/named.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/named_context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/named_context_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/named_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/reflectx/reflect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/reflectx/reflect_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/sqlx.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/sqlx_context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/sqlx_context_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/sqlx_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/types/types.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/jmoiron/sqlx/types/types_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/labstack/echo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/labstack/gommon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/mattn/go-colorable" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/chain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/chain_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/constantdelay.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/constantdelay_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/cron.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/cron_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/option.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/option_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/parser.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/parser_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/spec.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/robfig/cron/spec_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/valyala/bytebufferpool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/valyala/fasttemplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/.idea/homework1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/Cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/Middleware/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/Router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/User/User.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/User/UserControl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework1/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lv.1/.idea/lv.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lv1-1/.idea/lv1-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lv1-2/.idea/lv1-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lv2-3/.idea/lv2-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lv2/.idea/lv2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lv3-1/.idea/lv3-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lv4-1/.idea/lv4-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/.idea/messageBoard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/controller/entrance.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/dao/messageDao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/dao/userDao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/service/userService.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/util/jsonNested.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/util/sqlConn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messageBoard/util/struct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no.6/.idea/no.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no.6/model/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no.6/mys.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/.idea/rankdemo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/cmd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/control/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/control/control.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/model/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/model/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rankdemo2/router/run.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrf/.idea/rrf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shiyan/.idea/shiyan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shiyan/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/.idea/source12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/admin_topic_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/admin_user_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/comment_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/comment_model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/comment_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/topic_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/topic_model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/topic_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/user_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/user_model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../source12/server/user_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test3/.idea/game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/test4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/another.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/.idea/知乎.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/control/control.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/control/views.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/model/article.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/model/comment.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/model/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/model/questions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/model/response.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/model/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/router/api.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/router/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/2020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/an.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/cg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/cz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/czz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/ff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/fx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/gd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/gz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/hd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/jb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/live.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/pl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/rd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/sc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/sd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/sh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/sign_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/sp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/sx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/tx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/wb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/wt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/wx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/wz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/xf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/xh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/xhd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/ye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/yq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/yz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/zh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/zl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/zw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/static/img/zx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/views/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/views/personalM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhihu/views/topicM.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1akLO30xnNz4996Sz9xVfimhkTD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpiderDB" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build lessons" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="lessons" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build lessons" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="401" y="146" key="FileChooserDialogImpl" timestamp="1587274654803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587274654803" />
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom" timestamp="1587307502802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587307502802" />
+    <state width="1493" height="216" key="GridCell.Tab.0.center" timestamp="1587307502802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587307502802" />
+    <state width="1493" height="216" key="GridCell.Tab.0.left" timestamp="1587307502802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587307502802" />
+    <state width="1493" height="216" key="GridCell.Tab.0.right" timestamp="1587307502802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587307502802" />
+  </component>
+</project>

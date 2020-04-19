@@ -1,0 +1,209 @@
+<!DOCTYPE html >   
+<html>
+	<head>
+		<title>.:::::::教务在线  学生课表  :::::::.</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+		<meta content="{qQcSEexs02HcEehsG9WnQetkaBHn0eihjVQ9fbVox389Ar1k162q!x7z,aac,amr,asm,avi,bak,bat,bmp,bin,c,cab,css,csv,com,cpp,dat,dll,doc,dot,docx,exe,eot,fla,flc,fon,fot,font,gdb,gif,gz,gho,hlp,hpp,htc,ico,ini,inf,ins,iso,js,jar,jpg,jpeg,json,java,lib,log,mid,mp4,mpa,m4a,mp3,mpg,mkv,mod,mov,mim,mpp,msi,mpeg,obj,ocx,ogg,olb,ole,otf,py,pyc,pas,pgm,ppm,pps,ppt,pdf,pptx,png,pic,pli,psd,qif,qtx,ra,rm,ram,rmvb,reg,res,rtf,rar,so,sbl,sfx,swa,swf,svg,sys,tar,taz,tif,tiff,torrent,txt,ttf,vsd,vss,vsw,vxd,woff,woff2,wmv,wma,wav,wps,xbm,xpm,xls,xlsx,xsl,xml,z,zip,apk,plist,ipaqq}=4SHC.yr9DWVnRWYyBNgQSa;wgXsJCkK3_aBt.Lh4f91LG;aZzviWuigjYmgPYpQOV25A;ZyCKA.YyzrtxmRLw1wz9Lq;st0MjhFVsmNEZPXuNtJlaq;rZQVStsN_extGHrgvo5EjG;i_ttA9rnvmtxyDzlhplu.G;tNYFJ.NJGJrAfZzoBNT9wq;.2iEIxjbD0JXpq3gCUb0Ba;_uxLY0oZZqOBF35kTJmRSG;MKRRCdsuTWH9CzOhgrXGz_UIzW8gVsSy5t6QLIpw_loLsIrJyt1074790464qqqq~FVW7FbrD2otlQGKXTR3G4zciytiGP9khvcLpvObXKixgTOs8QoXQ8jbtnFELwXKXtHggs.OHsJegGfAjeWRE6BCB3WM0yzqF3mzV4jungJLWrbCXtrWajGstvtWaKGPFTJ4l6XbXwi_efSniDil7wAq29RsQCHSN9msgn31maJvzvRCpMq9yj8nw9WbGoQOxhW6l.tDJ6oTLCIuNJlnZ31KN1DoJPIsYYo9Q8MnGMxCVLmcw_J2Wy1kxfI03TouwERrNdA1EUJrA_IpSD3ULmIkRRITETquwVRqRdU1EkRDao1qRwHGeGMbxBFvQxxrLRRG71qDwac6gkobquJuEMhSp_tnejqql4098qqqqqVFMlpCY1qK3xAf2PmK3R3qhuTHtvhqFYtnqqqq{EEILsarsxDyeJ2mDQsNyARDRGYbJcWpGSlseJwlzPsoSkIVz2sD7AJf34DleUF0zd3Dplwlwfqqqqqqql8252qr0YI4QgqbgxBDZUkY5hR8LWvqqqqc80K5Z0RMxL9YT7_iRz_H1njCGr0hYf3koLB4d6QqqqqDad7fa5lJjgRl3650J1587275146918qqqq"><!--[if lt IE 9]><script r='m'>document.createElement("section")</script><![endif]--><script type="text/javascript" charset="iso-8859-1" src="/2cNOgikZB7IP/e9kSMi0JTMgk.ad7fa50.js" r='m'></script><script type="text/javascript" r="m">(function(){var _$$5=0,_$Uw=[[8,1,6,1,2,3,5,3,7,0,4,9],[37,36,18,54,98,42,67,63,13,1,90,28,39,76,93,28,16,7,96,34,20,25,30,59,50,10,75,35,28,99,3,2,58,12,31,49,27,80,65,22,49,46,11,23,9,91,49,84,19,48,54,81,49,43,33,40,14,69,92,70,44,49,64,45,49,32,53,85,73,28,47,74,21,85,97,57,28,24,85,28,6,54,66,77,94,55,52,28,61,82,8,71,72,41,17,0,86,51,4,88,56,28,95,38,26,87,79,68,83,78,29,15,5,60,89,62,28],[26,3,12,24,12,19,4,14,6,2,0,21,18,27,16,0,32,9,31,1,25,22,28,5,24,11,24,23,24,17,24,10,33,24,13,15,30,15,20,29,7,8,0],[0,1,4,15,35,13,10,20,34,2,34,40,25,29,9,38,46,17,12,43,6,37,23,29,44,35,36,41,5,42,39,1,21,47,14,8,21,3,16,22,16,31,27,29,16,26,7,26,27,17,19,18,33,24,32,28,22,27,2,19,31,11,45,30,10],[10,12,19,26,11,29,24,18,32,21,22,6,18,16,1,0,18,14,5,0,8,30,2,36,31,7,15,3,8,4,27,28,9,20,31,17,3,25,4,18,23,35,33,13,22,34,18]];function _$43(_$Ci,_$zl){return _$6A.Math.abs(_$Ci)%_$zl;}function _$20(_$SZ){if(_$yZ(_$SZ)){if(_$A5()+_$6E()){_$Ep(_$SZ);}}_$SZ[_$43(_$SZ[_$43(_$Gc()+_$Rd(),16)],16)]=_$ef(_$SZ);var _$gp=_$Aw();if(_$4E(_$SZ)){var _$VC=_$A5()+_$6E();}_$SZ[7]=_$Gc();var _$VC=_$A5();_$_Z(_$SZ);return _$KO();}function _$yZ(_$SZ){var _$gp=_$rz();var _$VC=_$KO();_$SZ[7]=_$Gc();if(_$a1()){var _$VC=_$5M();}var _$gp=_$a1();if(_$Jd()){var _$mN=_$ik();}_$SZ[_$43(_$KO(),16)]=_$Jd();return _$Gc();}function _$rz(){return 11}function _$KO(){return 1}function _$Gc(){return 13}function _$a1(){return 0}function _$5M(){return 12}function _$EN(){return 8}function _$Jd(){return 7}function _$ik(){return 14}function _$nq(){return 10}function _$A5(){return 9}function _$6E(){return 15}function _$Ep(_$SZ){_$SZ[8]=_$Pi();_$SZ[4]=_$Aw();var _$VC=_$6E();var _$gp=_$LI();return _$rz();}function _$Pi(){return 6}function _$Aw(){return 2}function _$LI(){return 5}function _$Rd(){return 3}function _$kI(_$SZ){_$SZ[11]=_$KO();var _$mN=_$Aw();var _$VC=_$a1();_$SZ[_$43(_$6E(),16)]=_$LI();return _$SZ[_$43(_$EN(),16)];}function _$ef(_$SZ){_$SZ[12]=_$nq();_$J_(_$SZ);var _$mN=_$Gc();var _$mN=_$Rd();if(_$ik()){_$SZ[_$43(_$LI(),16)]=_$rz();}_$SZ[_$43(_$Aw(),16)]=_$a1();return _$XF(_$SZ);}function _$J_(_$SZ){_$SZ[_$43(_$Jd(),16)]=_$Gc();_$SZ[_$43(_$a1(),16)]=_$ik();_$SZ[12]=_$nq();return _$EN();}function _$XF(_$SZ){_$SZ[12]=_$nq();_$SZ[8]=_$Pi();var _$VC=_$Rd();var _$gp=_$A5();return _$6E();}function _$4E(_$SZ){var _$VC=_$Jd();var _$gp=_$Gc();var _$VC=_$LI();var _$mN=_$XP();if(_$a1()){var _$VC=_$rz();}var _$gp=_$ik();_$SZ[_$43(_$LI(),16)]=_$rz();return _$KO();}function _$XP(){return 4}function _$WU(_$SZ){if(_$KO()){_$SZ[_$43(_$XP(),16)]=_$Aw();}_$8m(_$SZ);var _$gp=_$LI();var _$mN=_$rz();return _$KO();}function _$8m(_$SZ){_$SZ[11]=_$KO();var _$gp=_$Aw();var _$VC=_$a1();var _$VC=_$LI();var _$mN=_$rz();var _$VC=_$XP();var _$gp=_$Aw();return _$a1();}function _$_Z(_$SZ){_$SZ[5]=_$SZ[_$43(_$EN(),16)];var _$mN=_$Gc();var _$mN=_$SZ[_$43(_$a1(),16)];if(_$SZ[_$43(_$5M(),16)]){if(_$rz()){_$SZ[_$43(_$Pi(),16)]=_$XP();}}_$SZ[11]=_$KO();if(_$Gc()+_$Rd()){_$SZ[_$43(_$6E(),16)]=_$LI();}var _$VC=_$Aw();var _$VC=_$A5()+_$6E();return _$J0(_$SZ);}function _$J0(_$SZ){_$t1(_$SZ);_$SZ[_$43(_$Aw(),16)]=_$a1();_$SZ[14]=_$5M();return _$Vl(_$SZ);}function _$t1(_$SZ){_$SZ[_$43(_$Jd(),16)]=_$Gc();var _$VC=_$ik();var _$mN=_$5M();_$SZ[_$43(_$rz(),16)]=_$KO();return _$Jd();}function _$Vl(_$SZ){_$SZ[8]=_$Pi();var _$gp=_$Rd();var _$VC=_$A5();var _$VC=_$LI();return _$rz();}var _$gz,_$YY,_$6A,_$DM,_$aq,_$20,_$pS;var _$FV,_$CI,_$7q=_$$5,_$Kv=_$Uw[0];while(1){_$CI=_$Kv[_$7q++];if(_$CI<4){if(_$CI<1){_$aq=_$6A['$_ts']={};}else if(_$CI<2){_$7q+=4;}else if(_$CI<3){_$aq=_$6A['$_ts'];}else{_$7q+=-4;}}else if(_$CI<8){if(_$CI<5){_$CY(0);}else if(_$CI<6){_$6A=window,_$pS=String,_$DM=Array;}else if(_$CI<7){_$FV= !_$aq;}else{if( !_$FV)_$7q+=1;}}else{if(_$CI<9){_$gz=[4,16,64,256,1024,4096,16384,65536];}else{return;}}}function _$CY(_$mN,_$Ci){function _$m7(){var _$pS=_$lm.charCodeAt(_$M2++ ),_$43;if(_$pS<128){return _$pS;}else if(_$pS<251){return _$pS-32;}else if(_$pS===251){return 0;}else if(_$pS===254){_$pS=_$lm.charCodeAt(_$M2++ );if(_$pS>=128)_$pS-=32;_$43=_$lm.charCodeAt(_$M2++ );if(_$43>=128)_$43-=32;return _$pS*219+_$43;}else if(_$pS===255){_$pS=_$lm.charCodeAt(_$M2++ );if(_$pS>=128)_$pS-=32;_$43=_$lm.charCodeAt(_$M2++ );if(_$43>=128)_$43-=32;_$pS=_$pS*219*219+_$43*219;_$43=_$lm.charCodeAt(_$M2++ );if(_$43>=128)_$43-=32;return _$pS+_$43;}else if(_$pS===252){_$43=_$lm.charCodeAt(_$M2++ );if(_$43>=128)_$43-=32;return -_$43;}else if(_$pS===253){_$pS=_$lm.charCodeAt(_$M2++ );if(_$pS>=128)_$pS-=32;_$43=_$lm.charCodeAt(_$M2++ );if(_$43>=128)_$43-=32;return _$pS* -219-_$43;}else{}}var _$M2,_$lm,_$Ob,_$7Y,_$pS,_$43,_$$5,_$7q,_$FV,_$ei,_$CI,_$Kv,_$SZ,_$0g,_$bf,_$gp,_$VC,_$Bu,_$hN,_$wO;var _$rz,_$Gc,_$yZ=_$mN,_$a1=_$Uw[1];while(1){_$Gc=_$a1[_$yZ++];if(_$Gc<64){if(_$Gc<16){if(_$Gc<4){if(_$Gc<1){_$Ci._$46="_$EN";}else if(_$Gc<2){_$yZ+=92;}else if(_$Gc<3){_$aq["ad7fa50"]=_$YY;}else{var _$lm=_$aq["ad7fa50"];}}else if(_$Gc<8){if(_$Gc<5){_$Ci._$05="_$6E";}else if(_$Gc<6){_$Ci._$qC="_$hr";}else if(_$Gc<7){_$rz=_$6A.execScript;}else{_$pS+="gzYY6ADMaq20Cizlm7lmOb7YM2hN0gBuZ5pcgu$JPbCWzbAyx1IrAXDz5kZTfDNRxkfPjuMnaPOpUw3qCYzgk_uGpS43$57qFVeiCI";}}else if(_$Gc<12){if(_$Gc<9){_$Ci._$fP=3;}else if(_$Gc<10){var _$0g=_$m7();}else if(_$Gc<11){_$pS+="nUjF0jVbxuZHr6o1FS7AvQ45LNY3o5QDelBaZzL0Uer9np$Q1K149nwPux8l_xnMgDkneSX1nOJvE6gGr$LWJVVJMcOUPtWvBV4UuL";}else{var _$ei=_$m7();}}else{if(_$Gc<13){var _$pS=_$CY(10);}else if(_$Gc<14){_$Ci._$mN="_$FV";}else if(_$Gc<15){for(_$bf=0;_$bf<_$wO;_$bf++ ){_$zg(16,_$bf,_$SZ);}}else{_$Ci._$Kv="_$7f";}}}else if(_$Gc<32){if(_$Gc<20){if(_$Gc<17){var _$pS='';}else if(_$Gc<18){_$Ci._$q3="_$5M";}else if(_$Gc<19){_$rz=_$aq["ad7fa50"];}else{var _$Kv=_$m7();}}else if(_$Gc<24){if(_$Gc<21){_$pS+="bibciKOTtv7fbXgmUm6ZS0q88Qi_ulH4k9rExYoKPQdzs6WeTRwQJTFeU65DsIyu7xlbmUGnaJuXrW9l2SH1Nuzkip2oi9DIyd7JOP";}else if(_$Gc<22){_$rz=_$pS!=="functioneval(){[nativecode]}";}else if(_$Gc<23){var _$M2=0;}else{var _$hN=_$m7();}}else if(_$Gc<28){if(_$Gc<25){_$rz=_$Ci===undefined||_$Ci==="";}else if(_$Gc<26){_$pS+="UNmSaQW0jiqCj$b5AERRiiHyUqYPqnQEJg12m2t3WHRZCBs$pfOVyfqQ0XLP02pnNZRWA0Ntfc01wTdVL1OMsckq0_Kt7wQpph83Gf";}else if(_$Gc<27){_$Ci._$Ci="xZPcOE248K0OEeiG5BA0Gq";}else{var _$7Y=_$aq.aebi=[];}}else{if(_$Gc<29){return;}else if(_$Gc<30){_$Ci._$ji="_$CV";}else if(_$Gc<31){_$pS+="WD2QkCVgSw2DBGSjcH0CmkzzEdkd1Fmb5G9cWkiQzITPTZOwlkDdmjoJFagVH9VpyFUpkc8fFC_$dyBKjLuhLV8q7_kZgyRk2q7cyV";}else{var _$43=_$CY(10);}}}else if(_$Gc<48){if(_$Gc<36){if(_$Gc<33){var _$VC=_$CY(10);}else if(_$Gc<34){var _$SZ=[];}else if(_$Gc<35){_$pS+="Vai2QY2RTO50vHt2HbUHIjXgqeR8LwUgyrIId$$wGtcgF$iL1dRK9QAfE0PgdcjgoeD6flLc46TN2GxQq305slK1leriMaNiZf58wN";}else{return _$CY(12,_$pS);}}else if(_$Gc<40){if(_$Gc<37){_$CY(88,_$aq);}else if(_$Gc<38){_$aq._$rE=_$CY(16);}else if(_$Gc<39){_$Ci._$ju="cjNLeB9VyoG";}else{var _$pS,_$43,_$$5=_$Ci.length,_$7q=new _$DM(_$$5/2),_$FV='_$';}}else if(_$Gc<44){if(_$Gc<41){var _$wO=_$m7();}else if(_$Gc<42){_$Ci._$Lc="_$a1";}else if(_$Gc<43){_$yZ+=1;}else{_$M2+=_$Kv;}}else{if(_$Gc<45){_$aq._$pS-=_$CY(10);}else if(_$Gc<46){_$CY(77,_$gp);}else if(_$Gc<47){var _$FV=_$m7();}else{var _$pS=_$6A.eval.toString();}}}else{if(_$Gc<52){if(_$Gc<49){_$rz=_$wO>0;}else if(_$Gc<50){}else if(_$Gc<51){_$pS+="izVVcM93emKTQSJyMsxsQxo7bp2O$tcogANfwWFqDPn9fOQHPkC5YqCVFmU$3I_9ftcd3NJ2bT08_tW8iGYkpBOcEnFEvqzd$gz6us";}else{_$Ci._$2G="_$ik";}}else if(_$Gc<56){if(_$Gc<53){return ret;}else if(_$Gc<54){_$rz=_$VC-_$pS>12000;}else if(_$Gc<55){if( !_$rz)_$yZ+=2;}else{ret=_$pS.call(_$6A,_$Ci);}}else if(_$Gc<60){if(_$Gc<57){_$yZ+=-93;}else if(_$Gc<58){return 0;}else if(_$Gc<59){var _$Ob=_$aq._$rE;}else{_$pS+="lVG$UlYzDYnsmM4gUZG9tuWC1URptwc8ZD_dmtiwqVEFLpOzcZO$N7laAGP4JQssQy8L8aeuWK_VIAUd$0deHMru$lrmwhRyh4lM2h";}}else{if(_$Gc<61){_$Ci._$7q="_$OT";}else if(_$Gc<62){_$Ci._$xk=1;}else if(_$Gc<63){_$Ci._$SZ="_$wN";}else{_$yZ+=93;}}}}else{if(_$Gc<80){if(_$Gc<68){if(_$Gc<65){_$43=_$CY(10);}else if(_$Gc<66){var _$7q=_$lm.length;}else if(_$Gc<67){ret=_$6A.execScript(_$Ci);}else{_$zg(0);}}else if(_$Gc<72){if(_$Gc<69){_$Ci._$ei="EGhZXRFp3CatCCgasBmFXG";}else if(_$Gc<70){for(_$bf=0;_$bf<_$wO;_$bf++ ){_$SZ.push("}");}}else if(_$Gc<71){var _$gp=_$SZ.join('');}else{_$Ci._$xQ="_$nq";}}else if(_$Gc<76){if(_$Gc<73){_$Ci._$fl="_$Gc";}else if(_$Gc<74){_$aq._$aQ=1;}else if(_$Gc<75){_$pS=_$pS.replace(/[\r\n\s]/g,"");}else{_$pS+="ZyR5iC04uYqjZOElQfuMX8BF3Shi2TTLnTXydYJ78s9tpNoA9Gkx5gRX0HRnYhInBjfj3OWN1e6XcjRlSUSs5saXai2tA4Zv03CgSpyJ";}}else{if(_$Gc<77){for(_$pS=0,_$43=0;_$43<_$$5;_$43+=2){_$7q[_$pS++ ]=_$FV+_$Ci.substr(_$43,2);}}else if(_$Gc<78){_$yZ+=2;}else if(_$Gc<79){_$Ci._$CI="_$Um";}else{_$Ci._$DM=_$20;}}}else if(_$Gc<96){if(_$Gc<84){if(_$Gc<81){var _$$5=_$CY(70);}else if(_$Gc<82){_$Bu=_$lm.substr(_$M2,_$Kv).split(String.fromCharCode(255));}else if(_$Gc<83){_$Ci._$6A=237;}else{_$Ci._$W0="_$eI";}}else if(_$Gc<88){if(_$Gc<85){_$wO=_$m7();}else if(_$Gc<86){if( !_$rz)_$yZ+=1;}else if(_$Gc<87){_$Ci._$TN="_$Jd";}else{_$Ci._$H4="";}}else if(_$Gc<92){if(_$Gc<89){_$Ci._$yZ="_$A5";}else if(_$Gc<90){_$Ci._$j$="_$Qr";}else if(_$Gc<91){return new Date().getTime();}else{var _$CI=_$m7();}}else{if(_$Gc<93){_$SZ.push(")();");}else if(_$Gc<94){return _$7q;}else if(_$Gc<95){_$pS=_$6A.eval;}else{_$Ci._$aq="hyKlQJc8kIG";}}}else{if(_$Gc<97){_$pS+="KvSZwObfgpVCmNyZrzKOGca15MENJdiknqA56EEpPiAwLIRdkIefJ_XF4EXPWU8m_ZJ0t1VlU49LNY5wUb3xDUXDtyx6q5LOp2IYt9";}else if(_$Gc<98){return 1;}else if(_$Gc<99){_$CY(29);}else{_$aq._$pS=new Date().getTime();}}}}function _$zg(_$7q,_$Z5,_$pc){function _$gu(){var _$CI=[0];Array.prototype.push.apply(_$CI,arguments);return _$k_.apply(this,_$CI);}var _$pS,_$43,_$$5,_$$J,_$Pb,_$CW,_$zb,_$Ay,_$x1,_$Ir,_$AX,_$Dz,_$5k,_$ZT,_$fD,_$NR;var _$ei,_$Kv,_$FV=_$7q,_$SZ=_$Uw[2];while(1){_$Kv=_$SZ[_$FV++];if(_$Kv<16){if(_$Kv<4){if(_$Kv<1){return;}else if(_$Kv<2){var _$zb=_$m7();}else if(_$Kv<3){_$$J.send();}else{var _$43=_$pS>1?document.scripts[_$pS-2].src:_$YY;}}else if(_$Kv<8){if(_$Kv<5){_$$J=_$6A.ActiveXObject?new _$6A.ActiveXObject('Microsoft.XMLHTTP'):new _$6A.XMLHttpRequest();}else if(_$Kv<6){var _$AX=_$m7();}else if(_$Kv<7){_$$J.onreadystatechange=_$gu;}else{for(_$$5=0;_$$5<_$43;_$$5++ ){_$NR[_$$5]=_$zg(11);}}}else if(_$Kv<12){if(_$Kv<9){_$k_(7,_$pc);}else if(_$Kv<10){var _$Pb=_$m7();}else if(_$Kv<11){var _$pS=_$zg(11);}else{var _$Dz=_$zg(11);}}else{if(_$Kv<13){_$FV+=33;}else if(_$Kv<14){var _$fD=_$zg(11);}else if(_$Kv<15){_$$J.open('GET',_$43,false);}else{_$FV+=-33;}}}else if(_$Kv<32){if(_$Kv<20){if(_$Kv<17){return _$43;}else if(_$Kv<18){var _$ZT=_$zg(11);}else if(_$Kv<19){var _$43=new Array(_$pS);}else{if( !_$ei)_$FV+=4;}}else if(_$Kv<24){if(_$Kv<21){var _$43=_$m7();}else if(_$Kv<22){var _$pS=_$m7();}else if(_$Kv<23){var _$x1=_$m7();}else{var _$5k=_$zg(11);}}else if(_$Kv<28){if(_$Kv<25){}else if(_$Kv<26){var _$Ay=_$m7();}else if(_$Kv<27){var _$pS=document.scripts.length;}else{for(_$$5=0;_$$5<_$pS;_$$5++ ){_$43[_$$5]=_$m7();}}}else{if(_$Kv<29){var _$Ir=_$m7();}else if(_$Kv<30){var _$NR=[];}else if(_$Kv<31){_$ei=_$43;}else{var _$CW=_$m7();}}}else{if(_$Kv<33){var _$$J=_$m7();}else{_$7Y[_$Z5]=_$pS;}}}function _$k_(_$43,_$xk){var _$fP,_$pS;var _$7q,_$ei,_$$5=_$43,_$CI=_$Uw[3];while(1){_$ei=_$CI[_$$5++];if(_$ei<16){if(_$ei<4){if(_$ei<1){_$7q=_$$J.readyState==4;}else if(_$ei<2){if( !_$7q)_$$5+=4;}else if(_$ei<3){_$xk.push(_$Ob[_$AX]);}else{_$xk.push(_$Ob[_$CW]);}}else if(_$ei<8){if(_$ei<5){_$CY(77,_$$J.responseText);}else if(_$ei<6){for(_$pS=0;_$pS<_$ZT.length;_$pS+=2){_$uG(0,_$ZT[_$pS],_$ZT[_$pS+1],_$xk);}}else if(_$ei<7){_$xk.push("function ");}else{_$7q=_$Z5==0;}}else if(_$ei<12){if(_$ei<9){_$xk.push(";");}else if(_$ei<10){_$xk.push("=0,");}else if(_$ei<11){return;}else{_$xk.push("++];");}}else{if(_$ei<13){_$xk.push("=$_ts.aebi;");}else if(_$ei<14){_$CY(29);}else if(_$ei<15){for(_$pS=1;_$pS<_$5k.length;_$pS++ ){_$xk.push(",");_$xk.push(_$Ob[_$5k[_$pS]]);}}else{_$7q=_$aq["ad7fa50"];}}}else if(_$ei<32){if(_$ei<20){if(_$ei<17){_$xk.push(",");}else if(_$ei<18){_$xk.push(_$Ob[_$0g]);}else if(_$ei<19){_$xk.push(_$Z5);}else{_$xk.push("[");}}else if(_$ei<24){if(_$ei<21){var _$pS,_$fP=4;}else if(_$ei<22){_$xk.push("var ");}else if(_$ei<23){_$xk.push(_$Ob[_$Ir]);}else{_$xk.push("(");}}else if(_$ei<28){if(_$ei<25){_$7q=_$NR.length;}else if(_$ei<26){_$xk.push("(function(){var ");}else if(_$ei<27){_$$5+=-37;}else{_$xk.push("=");}}else{if(_$ei<29){_$xk.push("while(1){");}else if(_$ei<30){_$xk.push(_$Ob[_$Pb]);}else if(_$ei<31){_$xk.push("}");}else{_$xk.push(_$Ob[_$$J]);}}}else{if(_$ei<36){if(_$ei<33){if( !_$7q)_$$5+=9;}else if(_$ei<34){_$xk.push("];");}else if(_$ei<35){_$$5+=37;}else{if( !_$7q)_$$5+=1;}}else if(_$ei<40){if(_$ei<37){for(_$pS=0;_$pS<_$Dz.length;_$pS++ ){_$xk.push(",");_$xk.push(_$Ob[_$Dz[_$pS]]);}}else if(_$ei<38){_$xk.push(_$Ob[_$Ay]);}else if(_$ei<39){_$xk.push(_$Ob[_$hN]);}else{_$7q=_$5k.length;}}else if(_$ei<44){if(_$ei<41){if( !_$7q)_$$5+=8;}else if(_$ei<42){_$xk.push("){");}else if(_$ei<43){_$uG(40);}else{_$$5+=8;}}else{if(_$ei<45){_$7q=_$Dz.length;}else if(_$ei<46){_$uG(13,0,_$NR.length);}else if(_$ei<47){_$xk.push("=$_ts.scj,");}else{_$xk.push(_$Ob[_$5k[0]]);}}}}function _$uG(_$FV,_$ju,_$Mn,_$aP){var _$pS,_$43,_$$5,_$7q;var _$CI,_$SZ,_$ei=_$FV,_$wO=_$Uw[4];while(1){_$SZ=_$wO[_$ei++];if(_$SZ<16){if(_$SZ<4){if(_$SZ<1){if( !_$CI)_$ei+=2;}else if(_$SZ<2){_$CI=_$7q==0;}else if(_$SZ<3){_$CI=_$7q<=_$fP;}else{_$xk.push("}else{");}}else if(_$SZ<8){if(_$SZ<5){_$xk.push("}");}else if(_$SZ<6){_$CI=_$7q==1;}else if(_$SZ<7){_$xk.push(_$Bu[_$pS[_$43]]);}else{_$Mn-- ;}}else if(_$SZ<12){if(_$SZ<9){_$uG(4,_$ju);}else if(_$SZ<10){for(_$pS=1;_$pS<7;_$pS++ ){if(_$7q<=_$gz[_$pS]){_$$5=_$gz[_$pS-1];break;}}}else if(_$SZ<11){_$aP.push(["function ",_$Ob[_$ju],"(){var ",_$Ob[_$zb],"=[",_$Mn,"];Array.prototype.push.apply(",_$Ob[_$zb],",arguments);return ",_$Ob[_$x1],".apply(this,",_$Ob[_$zb],");}"].join(''));}else{var _$pS=_$NR[_$ju];}}else{if(_$SZ<13){_$ei+=5;}else if(_$SZ<14){_$CI=_$fD.length!=_$pS;}else if(_$SZ<15){_$ei+=21;}else{for(;_$ju<_$Mn;_$ju++ ){_$xk.push(_$43);_$xk.push(_$Ob[_$Ir]);_$xk.push('<');_$xk.push(_$ju+1);_$xk.push("){");_$uG(4,_$ju);_$43="}else if(";}}}}else if(_$SZ<32){if(_$SZ<20){if(_$SZ<17){var _$pS,_$43,_$$5,_$7q=_$Mn-_$ju;}else if(_$SZ<18){for(;_$ju+_$$5<_$Mn;_$ju+=_$$5){_$xk.push(_$43);_$xk.push(_$Ob[_$Ir]);_$xk.push('<');_$xk.push(_$ju+_$$5);_$xk.push("){");_$uG(13,_$ju,_$ju+_$$5);_$43="}else if(";}}else if(_$SZ<19){return;}else{_$43-=_$43%2;}}else if(_$SZ<24){if(_$SZ<21){}else if(_$SZ<22){_$CI=_$pS.length!=_$43;}else if(_$SZ<23){if( !_$CI)_$ei+=1;}else{var _$pS=_$fD.length;}}else if(_$SZ<28){if(_$SZ<25){_$ei+=-5;}else if(_$SZ<26){_$uG(13,_$ju,_$Mn);}else if(_$SZ<27){_$ei+=4;}else{_$ei+=8;}}else{if(_$SZ<29){_$$5=0;}else if(_$SZ<30){var _$43=_$pS.length;}else if(_$SZ<31){_$ei+=17;}else{_$43="if(";}}}else{if(_$SZ<36){if(_$SZ<33){for(k=0;k<_$43;k+=2){_$xk.push(_$Bu[_$pS[k]]);_$xk.push(_$Ob[_$pS[k+1]]);}}else if(_$SZ<34){for(_$43=0;_$43<_$pS;_$43+=2){_$xk.push(_$Bu[_$fD[_$43]]);_$xk.push(_$Ob[_$fD[_$43+1]]);}}else if(_$SZ<35){_$xk.push(_$Bu[_$fD[_$pS]]);}else{_$pS-=_$pS%2;}}else{if( !_$CI)_$ei+=7;}}}}}}}})()</script><script type="text/javascript" src="../js/jquery-1.12.0.min.js"></script>
+		<link href="../js/jqUI/smoothness/jquery-ui.min.css" rel="stylesheet">  
+		<script type="text/javascript"  src="../js/jqUI/smoothness/jquery-ui.min.js"></script> 
+		<link href="../css/tpl.css" rel="stylesheet">
+		<script type="text/javascript"> 
+			$(document).ready(function(){
+				$( "#stuKbTabs" ).tabs({
+					beforeLoad: function( event, ui ) {
+						ui.panel.html('Loading...');
+					}}
+				);
+				$( "#zcGuolv" ).change(function(event){
+					event.preventDefault(); 
+					$zc=$(this).val();
+					if($zc==0)$("#stuPanel table div.kbTd").show();
+					else (
+						$("#stuPanel table div.kbTd").each(function(){
+							$zcStr=$(this).attr('zc');
+							$a=parseInt($zcStr.substr($zc-1,1));
+							if($a==0) $(this).hide();
+							else $(this).show();
+						})
+						)
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div id="head" >
+			<div style="width: 1000px;margin: 0px auto;">
+				<div style="float: left;">
+					<ul><li><a href="../index.php"><img src="../images/room.png" width="50px" alt=""  /></a></li>
+
+						<li>〉〉2019-2020学年2学期 学生课表>>2019210001王书缘  </li>
+					</ul>
+				</div>
+				<div style="float: right;color: rgb(221, 221, 221);"> 
+					今天是第 9 周 星期 7                       
+				</div>
+			</div>
+		</div> 
+		<div id="logo" style="background: #E0E0E0;vertical-align: middle;height: 30px;">    
+		</div>
+		<div style="width: 1200px;margin: auto;min-height: 500px;padding-top: 10px;" >
+			<div id="stuKbTabs" >
+				<ul>
+					<li><a href="#kbStuTabs-table">按表格查询</a></li> 
+					<li><a href="#kbStuTabs-list">按列表查询</a></li>
+					<li><a href="#kbStuTabs-ttk">调停课查询</a></li>   
+					<li><a href="stuXkLog.php?xh=2019210001">选课记录日志</a></li>   
+				</ul>
+				<div id="kbStuTabs-table">
+					<div class="printTable">
+						<form  onsubmit="return false;">
+							<input type="hidden" name="xh" value="2019210001">
+							<b>周次筛选：</b><select  name='zc' size=1 id='zcGuolv'>
+								<option value="0">全部</option>
+								<option value=1>第1周</option><option value=2>第2周</option><option value=3>第3周</option><option value=4>第4周</option><option value=5>第5周</option><option value=6>第6周</option><option value=7>第7周</option><option value=8>第8周</option><option value=9>第9周</option><option value=10>第10周</option><option value=11>第11周</option><option value=12>第12周</option><option value=13>第13周</option><option value=14>第14周</option><option value=15>第15周</option><option value=16>第16周</option><option value=17>第17周</option><option value=18>第18周</option><option value=19>第19周</option><option value=20>第20周</option>							</select>
+							<b>当前周次：</b>第9周						</form>
+						<div id='stuPanel'>
+							<style type='text/css'>.kbTd{margin-top: 8px;}</style><table ><thead ><tr ><td>&nbsp;</td><td style='text-align:center;'>星期一</td><td style='text-align:center;'>星期二</td><td style='text-align:center;'>星期三</td><td style='text-align:center;'>星期四</td><td style='text-align:center;'>星期五</td><td style='text-align:center;'>星期六</td><td style='text-align:center;'>星期日</td></tr></thead><tr style='text-align:center'><td style='font-weight:bold;'>1、2节</td><td ></td><td ><div class='kbTd' zc='11111111111111110000'>A01192A2040480001<br>A2040480-数据结构与算法A<br>地点：4305 
+			<br>1-16周<font color=#FF0000></font><br><span style='color:#0000FF'>孙开伟 必修 4.0学分</span><br><b><a href='kb_stuList.php?jxb=A01192A2040480001' target=_blank>选课学生名单</a></b></div></td><td ></td><td ><div class='kbTd' zc='11111111111111100000'>A01192A1110020001<br>A1110020-高等数学A(下)<br>地点：3401 
+			<br>1-15周<font color=#FF0000></font><br><span style='color:#0000FF'>潘建辉 必修 5.5学分</span><br><b><a href='kb_stuList.php?jxb=A01192A1110020001' target=_blank>选课学生名单</a></b></div></td><td ></td><td ></td><td ></td></tr><tr style='text-align:center'><td style='font-weight:bold;'>3、4节</td><td ><div class='kbTd' zc='11111111111111110000'>A01192A1050050001<br>A1050050-大学英语3<br>地点：4209 
+			<br>1-16周<font color=#FF0000></font><br><span style='color:#0000FF'>雷芳（外） 必修 4.0学分</span><br><b><a href='kb_stuList.php?jxb=A01192A1050050001' target=_blank>选课学生名单</a></b></div></td><td ></td><td ><div class='kbTd' zc='11111111111111110000'>A00192A1110290001<br>A1110290-大学物理A（上）<br>地点：2215 
+			<br>1-16周<font color=#FF0000></font><br><span style='color:#0000FF'>房然然 必修 3.0学分</span><br><b><a href='kb_stuList.php?jxb=A00192A1110290001' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='00000000111111110000'>SK01192A2040480001<br>A2040480-数据结构与算法A<br>地点：智能科学与技术实验室(综合实验楼B515) 
+			<br>9-16周<font color=#FF0000></font><br><span style='color:#0000FF'>段小林 必修 .0学分</span><br><b><a href='kb_stuList.php?jxb=SK01192A2040480001' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='11111111111111000000'>A01192A1110020001<br>A1110020-高等数学A(下)<br>地点：3401 
+			<br>1-14周<font color=#FF0000></font><br><span style='color:#0000FF'>潘建辉 必修 5.5学分</span><br><b><a href='kb_stuList.php?jxb=A01192A1110020001' target=_blank>选课学生名单</a></b></div></td><td ></td><td ></td></tr><tr style='text-align:center'><td style='font-weight:bold;'>中午间歇</td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr style='text-align:center'><td style='font-weight:bold;'>5、6节</td><td ><div class='kbTd' zc='11111111111111100000'>A01192A1110020001<br>A1110020-高等数学A(下)<br>地点：3401 
+			<br>1-15周<font color=#FF0000></font><br><span style='color:#0000FF'>潘建辉 必修 5.5学分</span><br><b><a href='kb_stuList.php?jxb=A01192A1110020001' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='11111111111111110000'>A00192A1090020001<br>A1090020-大学体育2-啦啦操三班<br>地点：运动场1 
+			<br>1-16周<font color=#FF0000></font><br><span style='color:#0000FF'>蒋思佳 必修 1.0学分</span><br><b><a href='kb_stuList.php?jxb=T192A1090020057' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='01111111111111111000'>S01192A2011610001<br>A2011610-数字媒体应用实践2<br>地点：虚拟现实技术实验室(综合实验楼C412) 
+			<br>2-17周<font color=#FF0000></font><br><span style='color:#0000FF'>郭晓金 选修 2.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2011610001' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='01010101010101010000'>A01192A2040480001<br>A2040480-数据结构与算法A<br>地点：4305 
+			<br>2-16周双周<font color=#FF0000></font><br><span style='color:#0000FF'>孙开伟 必修 4.0学分</span><br><b><a href='kb_stuList.php?jxb=A01192A2040480001' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='00001111000000000000'>A01192A1100010019<br>A1100010-形势与政策<br>地点：3106 
+			<br>5-8周<font color=#FF0000></font><br><span style='color:#0000FF'>张祥干 必修 .0学分</span><br><b><a href='kb_stuList.php?jxb=A01192A1100010019' target=_blank>选课学生名单</a></b></div></td><td ></td><td ></td></tr><tr style='text-align:center'><td style='font-weight:bold;'>7、8节</td><td ><div class='kbTd' zc='01000000000000000000'>S01192A1100060001<br>A1100060-思想政治理论课实践教学<br>地点：2109 
+			<br>2周<font color=#FF0000></font><br><span style='color:#0000FF'>郭海成 必修 2.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A1100060001' target=_blank>选课学生名单</a></b></div></td><td ></td><td ><div class='kbTd' zc='11111111111111110000'>A01192A1050050001<br>A1050050-大学英语3<br>地点：4209 
+			<br>1-16周<font color=#FF0000></font><br><span style='color:#0000FF'>雷芳（外） 必修 4.0学分</span><br><b><a href='kb_stuList.php?jxb=A01192A1050050001' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='00000000000100000000'>S01192A2110670001<br>A2110670-大学物理实验A(上)<br>地点：电学设计性实验室(综合实验楼C310/C311) 
+			<br>12周<font color=#FF0000></font><br><span style='color:#0000FF'>田贻丽 必修 1.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2110670001' target=_blank>选课学生名单</a></b></div><div class='kbTd' zc='00000000100000000000'>S01192A2110670001<br>A2110670-大学物理实验A(上)<br>地点：物理实验室（四）(综合实验楼C209/C210) 
+			<br>9周<font color=#FF0000></font><br><span style='color:#0000FF'>田贻丽 必修 1.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2110670001' target=_blank>选课学生名单</a></b></div><div class='kbTd' zc='00000001000000000000'>S01192A2110670001<br>A2110670-大学物理实验A(上)<br>地点：物理实验室（二）(综合实验楼C203/C204) 
+			<br>8周<font color=#FF0000></font><br><span style='color:#0000FF'>田贻丽 必修 1.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2110670001' target=_blank>选课学生名单</a></b></div><div class='kbTd' zc='00000100000000000000'>S01192A2110670001<br>A2110670-大学物理实验A(上)<br>地点：物理实验室(一)(综合实验楼C201/C202) 
+			<br>6周<font color=#FF0000></font><br><span style='color:#0000FF'>田贻丽 必修 1.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2110670001' target=_blank>选课学生名单</a></b></div><div class='kbTd' zc='00001000000000000000'>S01192A2110670001<br>A2110670-大学物理实验A(上)<br>地点：物理虚拟仿真实验室(综合实验楼C314/C315/C316) 
+			<br>5周<font color=#FF0000></font><br><span style='color:#0000FF'>田贻丽 必修 1.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2110670001' target=_blank>选课学生名单</a></b></div><div class='kbTd' zc='01100000000000100000'>S01192A2110670001<br>A2110670-大学物理实验A(上)<br>地点：光学设计性实验室(综合实验楼C312/C313) 
+			<br>2-3周,15周<font color=#FF0000></font><br><span style='color:#0000FF'>田贻丽 必修 1.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2110670001' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='10101010101010100000'>A00192A1110290001<br>A1110290-大学物理A（上）<br>地点：2215 
+			<br>1-15周单周<font color=#FF0000></font><br><span style='color:#0000FF'>房然然 必修 3.0学分</span><br><b><a href='kb_stuList.php?jxb=A00192A1110290001' target=_blank>选课学生名单</a></b></div></td><td ></td><td ></td></tr><tr style='text-align:center'><td style='font-weight:bold;'>下午间歇</td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr style='text-align:center'><td style='font-weight:bold;'>9、10节</td><td ></td><td ><div class='kbTd' zc='00000000111111110000'>R192A1125180001<br>A1125180-中国民间剪纸艺术<br>地点：8121 
+			<br>9-16周<font color=#FF0000></font><br><span style='color:#0000FF'>陈涛 选修 1.0学分</span><br><b><a href='kb_stuList.php?jxb=R192A1125180001' target=_blank>选课学生名单</a></b></div></td><td ><div class='kbTd' zc='11111100000000000000'>S01192A2122050001<br>A2122050-设计思维与方法<br>地点：模型室1 
+			<br>1-6周<font color=#FF0000>4节连上</font><br><span style='color:#0000FF'>张建平 必修 3.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2122050001' target=_blank>选课学生名单</a></b></div></td><td ></td><td ><div class='kbTd' zc='11111100000000000000'>S01192A2122050001<br>A2122050-设计思维与方法<br>地点：模型室1 
+			<br>1-6周<font color=#FF0000>4节连上</font><br><span style='color:#0000FF'>张建平 必修 3.0学分</span><br><b><a href='kb_stuList.php?jxb=S01192A2122050001' target=_blank>选课学生名单</a></b></div></td><td ></td><td ></td></tr><tr style='text-align:center'><td style='font-weight:bold;'>11、12节</td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr></table>						</div>
+					</div>
+				</div>
+				<div id="kbStuTabs-list">
+					<div class="printTable">
+						<table ><thead ><tr ><td>教学班分类</td><td>课程号-课程名</td><td>教学班</td><td>类别</td><td>选课状态</td><td>教师</td><td>上课时间</td><td>地点</td><td>学生名单</td><td>备注</td></tr></thead><tbody><tr ><td rowspan='1' align='center'>理论</td>  
+					<td rowspan='1'>A1090020-大学体育2-啦啦操三班</td>
+					<td rowspan='1'>A00192A1090020001</td>
+					<td rowspan='1'>必修</td><td rowspan='1' align='center'>正常 </td><td>蒋思佳</td> 
+					<td>星期2第5-6节 1-16周</td><td>运动场1</td>
+					<td rowspan='1' align='center'><a href='kb_stuList.php?jxb=A00192A1090020001' target=_blank>名单</a></td>
+					<td rowspan='1'></td>
+					</tr><tr ><td rowspan='2' align='center'>理论</td>  
+					<td rowspan='2'>A1110290-大学物理A（上）</td>
+					<td rowspan='2'>A00192A1110290001</td>
+					<td rowspan='2'>必修</td><td rowspan='2' align='center'>正常 </td><td>房然然</td> 
+					<td>星期3第3-4节 1-16周</td><td>2215</td>
+					<td rowspan='2' align='center'><a href='kb_stuList.php?jxb=A00192A1110290001' target=_blank>名单</a></td>
+					<td rowspan='2'></td>
+					</tr><tr><td >房然然 </td>
+					<td>星期5 第7-8节1-15周单周 </td><td>2215</td></tr><tr ><td rowspan='2' align='center'>理论</td>  
+					<td rowspan='2'>A1050050-大学英语3</td>
+					<td rowspan='2'>A01192A1050050001</td>
+					<td rowspan='2'>必修</td><td rowspan='2' align='center'>正常 </td><td>雷芳（外）</td> 
+					<td>星期1第3-4节 1-16周</td><td>4209</td>
+					<td rowspan='2' align='center'><a href='kb_stuList.php?jxb=A01192A1050050001' target=_blank>名单</a></td>
+					<td rowspan='2'></td>
+					</tr><tr><td >雷芳（外） </td>
+					<td>星期3 第7-8节1-16周 </td><td>4209</td></tr><tr ><td rowspan='1' align='center'>理论</td>  
+					<td rowspan='1'>A1100010-形势与政策</td>
+					<td rowspan='1'>A01192A1100010019</td>
+					<td rowspan='1'>必修</td><td rowspan='1' align='center'>正常 </td><td>张祥干</td> 
+					<td>星期5第5-6节 5-8周</td><td>3106</td>
+					<td rowspan='1' align='center'><a href='kb_stuList.php?jxb=A01192A1100010019' target=_blank>名单</a></td>
+					<td rowspan='1'></td>
+					</tr><tr ><td rowspan='3' align='center'>理论</td>  
+					<td rowspan='3'>A1110020-高等数学A(下)</td>
+					<td rowspan='3'>A01192A1110020001</td>
+					<td rowspan='3'>必修</td><td rowspan='3' align='center'>正常 </td><td>潘建辉</td> 
+					<td>星期1第5-6节 1-15周</td><td>3401</td>
+					<td rowspan='3' align='center'><a href='kb_stuList.php?jxb=A01192A1110020001' target=_blank>名单</a></td>
+					<td rowspan='3'></td>
+					</tr><tr><td >潘建辉 </td>
+					<td>星期4 第1-2节1-15周 </td><td>3401</td></tr><tr><td >潘建辉 </td>
+					<td>星期5 第3-4节1-14周 </td><td>3401</td></tr><tr ><td rowspan='2' align='center'>理论</td>  
+					<td rowspan='2'>A2040480-数据结构与算法A</td>
+					<td rowspan='2'>A01192A2040480001</td>
+					<td rowspan='2'>必修</td><td rowspan='2' align='center'>正常 </td><td>孙开伟</td> 
+					<td>星期2第1-2节 1-16周</td><td>4305</td>
+					<td rowspan='2' align='center'><a href='kb_stuList.php?jxb=A01192A2040480001' target=_blank>名单</a></td>
+					<td rowspan='2'></td>
+					</tr><tr><td >孙开伟 </td>
+					<td>星期4 第5-6节2-16周双周 </td><td>4305</td></tr><tr ><td rowspan='1' align='center'>理论</td>  
+					<td rowspan='1'>A1125180-中国民间剪纸艺术</td>
+					<td rowspan='1'>R192A1125180001</td>
+					<td rowspan='1'>选修</td><td rowspan='1' align='center'>正常 </td><td>陈涛</td> 
+					<td>星期2第9-10节 9-16周</td><td>8121</td>
+					<td rowspan='1' align='center'><a href='kb_stuList.php?jxb=R192A1125180001' target=_blank>名单</a></td>
+					<td rowspan='1'></td>
+					</tr><tr ><td rowspan='1' align='center'>实验实践</td>  
+					<td rowspan='1'>A1100060-思想政治理论课实践教学</td>
+					<td rowspan='1'>S01192A1100060001</td>
+					<td rowspan='1'>必修</td><td rowspan='1' align='center'>正常 </td><td>郭海成</td> 
+					<td>星期1第7-8节 2周</td><td>2109</td>
+					<td rowspan='1' align='center'><a href='kb_stuList.php?jxb=S01192A1100060001' target=_blank>名单</a></td>
+					<td rowspan='1'></td>
+					</tr><tr ><td rowspan='1' align='center'>实验实践</td>  
+					<td rowspan='1'>A2011610-数字媒体应用实践2</td>
+					<td rowspan='1'>S01192A2011610001</td>
+					<td rowspan='1'>选修</td><td rowspan='1' align='center'>正常 </td><td>郭晓金</td> 
+					<td>星期3第5-6节 2-17周</td><td>虚拟现实技术实验室(综合实验楼C412)</td>
+					<td rowspan='1' align='center'><a href='kb_stuList.php?jxb=S01192A2011610001' target=_blank>名单</a></td>
+					<td rowspan='1'></td>
+					</tr><tr ><td rowspan='6' align='center'>实验实践</td>  
+					<td rowspan='6'>A2110670-大学物理实验A(上)</td>
+					<td rowspan='6'>S01192A2110670001</td>
+					<td rowspan='6'>必修</td><td rowspan='6' align='center'>正常 </td><td>田贻丽</td> 
+					<td>星期4第7-8节 12周</td><td>电学设计性实验室(综合实验楼C310/C311)</td>
+					<td rowspan='6' align='center'><a href='kb_stuList.php?jxb=S01192A2110670001' target=_blank>名单</a></td>
+					<td rowspan='6'></td>
+					</tr><tr><td >田贻丽 </td>
+					<td>星期4 第7-8节9周 </td><td>物理实验室（四）(综合实验楼C209/C210)</td></tr><tr><td >田贻丽 </td>
+					<td>星期4 第7-8节8周 </td><td>物理实验室（二）(综合实验楼C203/C204)</td></tr><tr><td >田贻丽 </td>
+					<td>星期4 第7-8节6周 </td><td>物理实验室(一)(综合实验楼C201/C202)</td></tr><tr><td >田贻丽 </td>
+					<td>星期4 第7-8节5周 </td><td>物理虚拟仿真实验室(综合实验楼C314/C315/C316)</td></tr><tr><td >田贻丽 </td>
+					<td>星期4 第7-8节2-3周,15周 </td><td>光学设计性实验室(综合实验楼C312/C313)</td></tr><tr ><td rowspan='2' align='center'>实验实践</td>  
+					<td rowspan='2'>A2122050-设计思维与方法</td>
+					<td rowspan='2'>S01192A2122050001</td>
+					<td rowspan='2'>必修</td><td rowspan='2' align='center'>正常 </td><td>张建平</td> 
+					<td>星期3第9-12节 1-6周</td><td>模型室1</td>
+					<td rowspan='2' align='center'><a href='kb_stuList.php?jxb=S01192A2122050001' target=_blank>名单</a></td>
+					<td rowspan='2'></td>
+					</tr><tr><td >张建平 </td>
+					<td>星期5 第9-12节1-6周 </td><td>模型室1</td></tr><tr ><td rowspan='1' align='center'>实验实践</td>  
+					<td rowspan='1'>A2040480-数据结构与算法A</td>
+					<td rowspan='1'>SK01192A2040480001</td>
+					<td rowspan='1'>必修</td><td rowspan='1' align='center'>正常 </td><td>段小林</td> 
+					<td>星期4第3-4节 9-16周</td><td>智能科学与技术实验室(综合实验楼B515)</td>
+					<td rowspan='1' align='center'><a href='kb_stuList.php?jxb=SK01192A2040480001' target=_blank>名单</a></td>
+					<td rowspan='1'></td>
+					</tr></tbody></table>					</div>
+				</div>
+				<div  id="kbStuTabs-ttk">
+					<table  class='pTable'>
+						<thead>
+							<tr><td>序号</td><td>学期</td><td>类型</td><td>教学班</td><td>课程名称</td><td>教师</td><td>停课周</td><td>停课时段</td><td>补（代）课时间</td><td>补课地点</td><td>代课老师</td></tr>  
+						</thead>
+						<tbody>
+													</tbody>
+					</table>
+
+				</div>
+
+			</div>
+
+		</div>
+
+
+
+	</body>
+</html>  
