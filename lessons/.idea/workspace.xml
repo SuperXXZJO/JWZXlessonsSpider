@@ -432,6 +432,13 @@
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\GOProjects\src\lessons\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1akLO30xnNz4996Sz9xVfimhkTD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">

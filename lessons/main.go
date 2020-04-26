@@ -27,7 +27,7 @@ type lesson struct {
 type Student struct {
 	gorm.Model
 	Name string
-	Number  string
+	Number  string   `gorm:"index:id_idx"`
 	Data  []string
 }
 
